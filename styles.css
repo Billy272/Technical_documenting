@@ -1,0 +1,42 @@
+body{
+  font-family: 'Baskervville', serif;
+  color: linen;
+  background-color: rgb(20, 30, 40);
+}
+hr{
+    margin: 1.5rem 0;
+    border: 1px solid rgba(120, 120, 120, 0.6);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    text-align: center;
+    color: black;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.description{
+    text-align: center;
+    text-decoration-style: wavy;
+    color:rgba(120, 120, 120, 0.6);
+}
+img{
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin: 0 auto 0 auto;
+
+}
+.date{
+    font-style: italic;
+    text-align: center;
+    color: aquamarine;
+}
+.display{
+    display: grid;
+    place-items: center;
+}
+.tribute{
+    background-color: cadetblue;
+}
